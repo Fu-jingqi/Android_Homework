@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp"
+        android:src="@drawable/dino" />
+    <TextView
+        android:id="@+id/register_text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="172dp"
+        android:layout_marginBottom="35dp"
+        android:gravity="center"
+        android:text="登录"
+        android:textColor="#88dab9"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/UserName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/bg_btn3"
+        android:drawableLeft="@drawable/zhanghu"
+        android:drawablePadding="5dp"
+        android:hint="用户名"
+        android:inputType="number"
+        android:paddingLeft="10dp"
+        android:textColor="#FFAD44"
+        android:textColorHint="#000000"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/Password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/UserName"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/bg_btn3"
+        android:drawableLeft="@drawable/mima"
+        android:drawablePadding="5dp"
+        android:hint="密码"
+        android:inputType="numberPassword"
+        android:paddingLeft="10dp"
+        android:textColor="#FFAD44"
+        android:textColorHint="#000000"
+        android:textSize="16sp" />
+
+    <CheckBox
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Password"
+        android:layout_marginLeft="65dp"
+        android:layout_marginBottom="32dp"
+        android:layout_toRightOf="@id/ConfirmBtn"
+        android:text="记住密码" />
+
+    <Button
+        android:id="@+id/ConfirmBtn"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Password"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/bg_btn4"
+        android:text="登录"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/RegisterBtn"
+        android:layout_width="190dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Password"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_toRightOf="@+id/ConfirmBtn"
+        android:background="@drawable/bg_btn4"
+        android:text="注册"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/text_3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/RegisterBtn"
+        android:layout_marginTop="15dp"
+        android:drawablePadding="5dp"
+        android:gravity="center"
+        android:hint="忘记密码"
+        android:paddingLeft="10dp"
+        android:textColor="#FFAD44"
+        android:textColorHint="#000000"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/text_4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="15dp"
+        android:drawablePadding="5dp"
+        android:gravity="center_vertical"
+        android:text="Henu出版社"
+        android:textColor="#000000"
+        android:textSize="14sp" />
+
+</RelativeLayout>

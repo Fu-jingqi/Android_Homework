@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/fsearch"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:background="@color/teal_200"
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="小恐龙社区"/>
+
+    </LinearLayout>
+<!--    <com.youth.banner.Banner-->
+<!--        android:id="@+id/banner"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="300dp" />-->
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="社区准则"
+        android:textSize="25dp"
+        android:textColor="#009688"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#009688"
+        android:textSize="15dp"
+        android:singleLine="false"
+        android:text="
+第一条 小恐龙社区是一款兼顾学习和娱乐的综合性交流社区，致力打造最有价值的社区。因为网络文化作品传播受地域性、空间性等限制，小恐龙社区内容均来自网友分享和上传。由于帖子数量众多，小恐龙社区对非法转载、传播色情内容等违法侵权行为的发生不具备充分的监控能力，所以，小恐龙社区对用户在本产品上实施的侵权行为不承担法律责任，侵权的法律责任概由上传侵权内容的用户本人或被链接的网站承担。\n
+
+第二条 用户在小恐龙社区的相关平台上发布时，应当遵守 《中华人民共和国著作权法》及与著作权保护相关的法律和规章，保证不侵犯著作权人的合法利益。 如果您是版权作者或机构，对本产品网友分享上传了您的作品有任何异议，请提供相关作品的版权证明，并立即联系我们删除 (aslkdhXXX@gmail.com)， 小恐龙社区将在第一时间内回复您，待信息核实后做出相应调整，以示小恐龙社区对著作版权的公正和维护。\n
+
+第三条 本平台用户拥有发布信息的权利，但不得发布含有以下内容的信息：\n
+(一) 反对宪法确定的基本原则的；\n
+(二) 危害国家统一、主权和领土完整的；\n
+(三) 泄露国家秘密、危害国家安全或者损害国家荣誉和利益的；\n
+(四) 煽动民族仇恨、民族歧视，破坏民族团结，或者侵害民族风俗、习惯的；\n
+(五) 破坏国家宗教政策，宣扬邪教、迷信的；\n
+(六) 散布谣言，扰乱社会秩序，破坏社会稳定的；\n
+(七) 宣扬淫秽、赌博、暴力、色情、凶杀、恐怖或者教唆犯罪的；\n
+(八) 煽动非法集会、结社、游行、示威、聚众扰乱社会秩序的；\n
+(九) 有法律、行政法规和国家规定禁止的其他内容的。\n
+第四条 用户不得发布含有色情、淫秽及暗示性色情内容的文章、图片。\n
+第五条 用户不得发布垃圾广告、不应发布不实信息。\n
+
+第六条 用户应尊重他人名誉权，不得以侮辱、诽谤等方式对他人进行人身攻击。\n
+
+第七条 用户应尊重他人隐私权，不得侵害他人隐私。隐私包括真实姓名、身份证号、电话号码、家庭住址及用户不愿公开的其他个人信息。涉及公众利益或经由当事人同意的除外。\n
+
+第八条 用户应尊重他人肖像权，未经他人同意不得擅自使用或修改其肖像。\n
+"/>
+</LinearLayout>

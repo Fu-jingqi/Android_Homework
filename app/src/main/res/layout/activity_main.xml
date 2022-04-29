@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/userInterface_userImg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@color/white"
+            android:src="@drawable/circle_images" />
+
+        <Button
+            android:id="@+id/userInterface_changeImg"
+            android:layout_width="22dp"
+            android:layout_height="26dp"
+            android:layout_below="@+id/userInterface_userImg"
+            android:layout_centerHorizontal="true"
+
+            android:layout_marginLeft="1dp"
+            android:layout_marginTop="-25dp"
+            android:layout_toRightOf="@+id/userInterface_userImg"
+            android:background="@drawable/camera" />
+
+        <TextView
+            android:id="@+id/userInterface_username"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_below="@+id/userInterface_userImg"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_horizontal"
+            android:text=""
+            android:singleLine="true"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/userInterface_changeName"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_below="@+id/userInterface_changeImg"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/userInterface_username"
+            android:background="@drawable/rename"
+            android:contentDescription="@string/app_name"
+
+            tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck" />
+    </RelativeLayout>
+
+</LinearLayout>

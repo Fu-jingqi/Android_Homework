@@ -6,8 +6,8 @@
     android:background="#e6e6e6">
 
     <TextView
-        android:layout_marginTop="95dp"
         android:id="@+id/HomePageText_1"
+        android:layout_marginTop="95dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="小恐龙社区欢迎你"

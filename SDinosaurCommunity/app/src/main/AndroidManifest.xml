@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SDinosaurCommunity">
         <activity
+            android:name=".Activity.PublishedPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.MainPageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.ForgetPasswordActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.DisciplineActivity"
             android:exported="false" />
         <activity

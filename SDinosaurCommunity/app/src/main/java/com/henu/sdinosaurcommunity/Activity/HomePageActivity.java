@@ -22,9 +22,6 @@ public class HomePageActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(HomePageActivity.this,"登陆成功",Toast.LENGTH_SHORT).show();
-//                Intent intent = new Intent(HomePageActivity.this, LoginActivity.class) ;
-//                System.out.printf("跳转成功");
-//                startActivity(intent);
             }
         });
     }

@@ -87,18 +87,18 @@
         android:textSize="20sp" />
 
     <TextView
-        android:id="@+id/text_3"
+        android:id="@+id/Login_textf"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_below="@+id/RegisterBtn"
         android:layout_marginTop="15dp"
         android:drawablePadding="5dp"
-        android:gravity="center"
-        android:hint="忘记密码"
-        android:paddingLeft="10dp"
-        android:textColor="#FFAD44"
-        android:textColorHint="#000000"
-        android:textSize="12sp" />
+        android:gravity="end"
+        android:paddingStart="10dp"
+        android:text="忘记密码"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        android:focusable="true" />
 
     <TextView
         android:id="@+id/text_4"

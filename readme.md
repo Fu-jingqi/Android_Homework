@@ -2,7 +2,7 @@
 
 * 启动 $APP$ ,看到界面 $home$_$page$
 
-<img src="D:/Code/Git/Android_Homework/img/image-20220504142012930.png" alt="image-20220504142012930" style="zoom:67%;" /> 
+<img src="Android_Homework/img/image-20220504142012930.png" alt="image-20220504142012930" style="zoom:67%;" /> 
 
 * 点击 **进入社区** 来到登录界面 $login$_$page$ ，登录界面可记住密码
 

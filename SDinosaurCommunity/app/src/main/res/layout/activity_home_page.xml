@@ -41,5 +41,5 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="58dp"
         android:background="@drawable/bg_btn5"
-        android:text="点击继续" />
+        android:text="进入社区" />
 </RelativeLayout>

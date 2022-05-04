@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SDinosaurCommunity">
         <activity
+            android:name=".Activity.TestActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.PublishedPageActivity"
             android:exported="false" />
         <activity
@@ -32,6 +35,9 @@
             android:exported="false" />
         <activity
             android:name=".Activity.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.NaviActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

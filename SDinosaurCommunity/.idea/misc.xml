@@ -3,16 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/back_img.xml" value="0.1255" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/bg_btn2.xml" value="0.1" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/bg_btn3.xml" value="0.363" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/bg_btn4.xml" value="0.363" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/bg_btn5.xml" value="0.363" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/circle_images.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3095" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/list_item.xml" value="0.1" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/radius_border.xml" value="0.363" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/selector1.xml" value="0.1" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/selector2.xml" value="0.311" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/selector3.xml" value="0.1" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/selector_1.xml" value="0.311" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/selector_orange_radiobutton.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/tab_menu_better.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/tab_menu_bg.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/tab_menu_channel.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/tab_menu_message.xml" value="0.1" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/drawable/text_selector.xml" value="0.311" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/acativity_search.xml" value="0.12132725430597771" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_dialog_view.xml" value="0.19791666666666666" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_discipline.xml" value="0.3619791666666667" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_forget_password.xml" value="0.20701754385964913" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_home_page.xml" value="0.33" />
@@ -20,12 +31,24 @@
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_login.xml" value="0.22264150943396227" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_main_page.xml" value="0.3619791666666667" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_navi_text.xml" value="0.10869565217391304" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_new.xml" value="0.264" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_paragraph.xml" value="0.3619791666666667" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_register.xml" value="0.264" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_setting.xml" value="0.3619791666666667" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_settings.xml" value="0.3619791666666667" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_test.xml" value="0.2" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/activity_three_fragment.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/fg_content.xml" value="0.2" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/fg_content_plus.xml" value="0.1" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/fragment_dashboard.xml" value="0.4" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/fragment_home.xml" value="0.12132725430597771" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/fragment_notifications.xml" value="0.12132725430597771" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/item_comment.xml" value="0.3619791666666667" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/layout_dialog_button.xml" value="0.19791666666666666" />
         <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/listitem.xml" value="0.3619791666666667" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/layout/news_list.xml" value="0.10869565217391304" />
+        <entry key="..\:/Code/AndroidCode/SDinosaurCommunity/app/src/main/res/menu/navigation.xml" value="0.234375" />
       </map>
     </option>
   </component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/drawable/main_bottom_bg_selector.xml" value="0.1" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_add_contact.xml" value="0.1" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_chat.xml" value="0.1875" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_invite.xml" value="0.1875" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_login.xml" value="0.1875" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/activity_splash_acvtivity.xml" value="0.1" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/contract_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/fragment_about_me.xml" value="0.36614583333333334" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/layout/header_fragment_contact.xml" value="0.33" />
+        <entry key="..\:/Android1/IM_Android-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1025" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2578125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

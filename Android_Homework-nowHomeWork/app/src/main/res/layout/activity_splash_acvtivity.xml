@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:andriod="http://schemas.android.com/apk/res/android"
+    andriod:layout_width="match_parent"
+    andriod:layout_height="match_parent"
+    andriod:gravity="center_horizontal"
+    andriod:background="#e6e6e6">
+
+    <ImageView
+        andriod:id="@+id/iv_logo"
+        andriod:layout_width="150dp"
+        andriod:layout_height="150dp"
+        andriod:layout_centerInParent="true"
+        andriod:scaleType="centerCrop"
+        andriod:src="@drawable/ksks" />
+
+    <TextView
+        andriod:layout_below="@+id/iv_logo"
+        andriod:layout_width="match_parent"
+        andriod:layout_height="wrap_content"
+        andriod:layout_gravity="bottom|center"
+        andriod:layout_marginTop="10dp"
+        andriod:layout_marginBottom="100dp"
+        andriod:text="这里是一个充满欢乐的社区!"
+        andriod:textColor="@color/black"
+        andriod:gravity="center"
+        andriod:letterSpacing="0.4"
+        andriod:textSize="30sp" />
+
+</RelativeLayout>

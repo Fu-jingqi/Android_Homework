@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:andriod="http://schemas.android.com/tools"
+    android:background="@drawable/wellcome"
+    andriod:scaleType="centerCrop"
+    android:orientation="vertical">
+    <!--标题-->
+    //不好看注释掉了
+
+    <!--com.hyphenate.easeui.widget.EaseTitleBar
+    app:titleBarTitle="登录"
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+    </com.hyphenate.easeui.widget.EaseTitleBar-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="小恐龙社区"
+            android:textColor="@color/ease_color_map_right_normal"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="用户名："
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:id="@+id/et_login_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="密    码："
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <EditText
+            android:password="true"
+            android:id="@+id/et_login_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <Button
+            android:id="@+id/bt_login_regist"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/ease_color_map_right_normal"
+            android:text="注册" />
+
+        <Button
+            android:id="@+id/bt_login_login"
+            android:layout_marginLeft="10dp"
+            android:layout_width="0dp"
+            android:background="@color/ease_color_map_right_normal"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="登录" />
+
+    </LinearLayout>
+
+</LinearLayout>

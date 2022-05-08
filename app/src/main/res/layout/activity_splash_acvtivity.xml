@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:andriod="http://schemas.android.com/apk/res/android"
+    andriod:layout_width="match_parent"
+    andriod:layout_height="match_parent">
+
+    <ImageView
+        andriod:id="@+id/iv_logo"
+        andriod:layout_width="150dp"
+        andriod:layout_height="150dp"
+        andriod:layout_centerInParent="true"
+        andriod:scaleType="centerCrop"
+        andriod:src="@drawable/app_logo" />
+
+    <TextView
+        andriod:layout_below="@+id/iv_logo"
+        andriod:layout_width="match_parent"
+        andriod:layout_height="wrap_content"
+        andriod:layout_gravity="bottom|center"
+        andriod:layout_marginTop="10dp"
+        andriod:layout_marginBottom="100dp"
+        andriod:text="小恐龙聊天"
+        andriod:textColor="@color/black"
+        andriod:gravity="center"
+        andriod:letterSpacing="0.4"
+        andriod:textSize="40dp" />
+
+</RelativeLayout>
